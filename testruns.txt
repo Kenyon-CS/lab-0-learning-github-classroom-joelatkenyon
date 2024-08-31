@@ -1,0 +1,36 @@
+== Run 1
+Enter a word: ship
+Enter the filename containing the list of words: words_alpha.txt
+Anagrams found for the word 'ship':
+1. hips
+2. phis
+3. pish
+4. ship
+
+== Run 2
+Enter a word: kenyon
+Enter the filename containing the list of words: words_alpha.txt
+No anagrams found for the word 'kenyon' in the file.
+
+== Run 3
+Enter a word: capital
+Enter the filename containing the list of words: words_alpha.txt
+Anagrams found for the word 'capital':
+1. capital
+2. palatic
+
+== Run 4
+Enter a word: heart
+Enter the filename containing the list of words: words_alpha.txt
+Anagrams found for the word 'heart':
+1. earth
+2. hater
+3. heart
+4. herat
+5. rathe
+
+== Run 5 (error that must have come with the program)
+Enter a word: thirty
+Enter the filename containing the list of words: words_alpha.txt
+Anagrams found for the word 'thirty':
+1. thirty
